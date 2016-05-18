@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
   <widget xmlns  = "http://www.w3.org/ns/widgets"
      xmlns:gap   = "http://phonegap.com/ns/1.0"
-	 id         = "com.phonegap.example7"
+	 id         = "com.phonegap.example9"
 	 versionCode= "10"
 	 version    = "1.0.0">
 	
   <!--VersionCode is optional and Android only-->
   
-  <name>App8 swipe con la pantalla</name>
+  <name>App9 acciones</name>
   
   <description>
-   Aplicacion que desliza la pantalla hacia la derecha e izquierda
+   Aplicacion que muestra laas acciones 
   </description>
   
   <preference name="phonegap-version" value="3.1.0" />
