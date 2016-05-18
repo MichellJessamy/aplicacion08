@@ -10,7 +10,7 @@
   <name>Acciones</name>
   
   <description>
-	aplicacion que muestra las acciones de sistintas aplicaciones 
+	aplicacion que muestra las acciones de distintas aplicaciones 
   </description>
   
   <preference name="phonegap-version" value="3.1.0" />
