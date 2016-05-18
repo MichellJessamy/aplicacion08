@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
   <widget xmlns  = "http://www.w3.org/ns/widgets"
      xmlns:gap   = "http://phonegap.com/ns/1.0"
-	 id         = "com.phonegap.example4"
+	 id         = "com.phonegap.example9"
 	 versionCode= "10"
 	 version    = "1.0.0">
 	
   <!--VersionCode is optional and Android only-->
   
-  <name>Datos del Dispositivo</name>
+  <name>Acciones</name>
   
   <description>
-	Aplicacion que muestra  datos del dispositivo movil y su historial de uso
+	aplicacion que muestra las acciones de sistintas aplicaciones 
   </description>
   
   <preference name="phonegap-version" value="3.1.0" />
